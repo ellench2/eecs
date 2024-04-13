@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "351c7e8f568b94f5ef215bbd8f06fcdd8a131c4ff266ae9671f2af4d150d62b1"
+    }
+  ],
+  "containerPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/EECS183_lab8.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData/EECS183_lab8/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData/EECS183_lab8/Index/Build/Products",
+      "derivedDataPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData/EECS183_lab8/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData/EECS183_lab8/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData/EECS183_lab8/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab8/DerivedData/EECS183_lab8/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

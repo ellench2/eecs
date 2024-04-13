@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "83b07a5b8bcf3c890c3068bcb85999fb5230e6a3a072fa4c46da0fb4050cdd99"
+    }
+  ],
+  "containerPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/EECS183_lab7.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/45/EECS183_lab7/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/45/EECS183_lab7/Index/Build/Products",
+      "derivedDataPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/45",
+      "indexDataStoreFolderPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/45/EECS183_lab7/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/45/EECS183_lab7/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_lab7/45/EECS183_lab7/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ellenchlachidze/Desktop/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

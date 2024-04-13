@@ -1,0 +1,38 @@
+10 7 6 14
+8454145
+65538
+13828103
+8454145
+8454150
+12713995
+65538
+8454145
+12648455
+11993099
+12
+0
+1
+7
+12
+13
+1
+One T 1
+Three T 7
+Stack U 0
+Four D 1
+Two D 2
+Five D 3
+0 lw One
+2 sw Three
+3 lw One
+4 lw loc
+5 sw Four
+7 lw One
+8 sw Three
+9 lw Four
+0 .fill Two
+1 .fill Stack
+3 .fill Three
+4 .fill Two
+5 .fill Five
+6 .fill One

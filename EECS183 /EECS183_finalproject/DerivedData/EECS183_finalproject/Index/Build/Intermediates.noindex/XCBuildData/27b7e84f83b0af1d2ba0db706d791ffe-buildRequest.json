@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "ce9bfbf551ec382bdf46f3d341e150c290ce35c0d4cfd7ade280802de692514a"
+    }
+  ],
+  "containerPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/EECS183_finalproject.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData/EECS183_finalproject/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData/EECS183_finalproject/Index/Build/Products",
+      "derivedDataPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData/EECS183_finalproject/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData/EECS183_finalproject/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData/EECS183_finalproject/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_finalproject/DerivedData/EECS183_finalproject/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

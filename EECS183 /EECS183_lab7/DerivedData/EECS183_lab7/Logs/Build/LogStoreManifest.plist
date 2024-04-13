@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>822F92F4-72CA-45D4-940D-7B3BCF21A05D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>822F92F4-72CA-45D4-940D-7B3BCF21A05D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_lab7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_lab7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_lab7</string>
+			<key>timeStartedRecording</key>
+			<real>656864841.69824898</real>
+			<key>timeStoppedRecording</key>
+			<real>656864842.48637104</real>
+			<key>title</key>
+			<string>Build EECS183_lab7</string>
+			<key>uniqueIdentifier</key>
+			<string>822F92F4-72CA-45D4-940D-7B3BCF21A05D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

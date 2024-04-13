@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "0fc459990420fa38986f43e50feaa82dd66b13cdef22b19e91debedf286721b1"
+    }
+  ],
+  "containerPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/EECS183_project4.2.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/DerivedData/EECS183_project4.2/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/DerivedData/EECS183_project4.2/Build/Products",
+      "derivedDataPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/DerivedData/EECS183_project4.2/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/DerivedData/EECS183_project4.2/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ellenchlachidze/Desktop/EECS 183 /EECS183_project4.2/DerivedData/EECS183_project4.2/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

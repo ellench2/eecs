@@ -1,0 +1,20 @@
+5 4 3 7
+8454151
+8454150
+12648448
+131075
+8519683
+2
+6
+1
+0
+Three U 0
+Two T 2
+Real D 1
+0 lw stack
+1 lw Real
+2 sw Three
+4 lw four
+0 .fill Two
+1 .fill Real
+3 .fill Three

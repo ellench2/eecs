@@ -1,0 +1,56 @@
+CREATE mytable1 2 string int word num
+INSERT INTO mytable1 3 ROWS
+a 2
+b 3
+b 4
+CREATE mytable2 2 string bool word y/n
+INSERT INTO mytable2 3 ROWS
+a true
+a false
+b true
+JOIN mytable1 AND mytable2 WHERE word = word AND PRINT 3 word 1 num 1 y/n 2
+DELETE FROM mytable2 where y/n = true
+INSERT INTO mytable2 2 ROWS
+a true
+b false
+JOIN mytable1 AND mytable2 WHERE word = word AND PRINT 3 word 1 num 1 y/n 2
+PRINT FROM mytable1 2 word num where word = b
+GENERATE FOR mytable1 hash INDEX ON num
+PRINT FROM mytable1 2 word num where num > 0
+GENERATE FOR mytable2 bst INDEX ON word
+JOIN mytable1 and mytable2 where word = word AND PRINT 1 y/n 2
+REMOVE mytable1
+REMOVE mytable2
+CREATE mytable3 3 int int string count time word
+INSERT INTO mytable3 10 ROWS
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+1 1 hello
+DELETE FROM mytable3 WHERE count = 1
+REMOVE mytable3
+CREATE mytable4 2 bool bool y/n if
+INSERT INTO mytable4 2 ROWS
+true false
+false true
+PRINT FROM mytable4 2 y/n if WHERE y/n < true
+GENERATE FOR mytable4 bst INDEX ON y/n
+PRINT FROM mytable4 2 y/n if WHERE y/n = true
+PRINT FROM mytable4 2 y/n if WHERE y/n > false
+REMOVE mytable4
+CREATE mytable5 4 string int bool string word count is? other
+INSERT INTO mytable5 2 ROWS
+hello 5 true tree
+tree 4 false hello
+PRINT FROM mytable5 2 word count WHERE count > 2
+JOIN mytable5 AND mytable5 WHERE word = other AND PRINT 2 word 1 is? 1
+GENERATE FOR mytable5 bst INDEX ON count
+PRINT FROM mytable5 2 word count WHERE count > 3
+JOIN mytable5 AND mytable5 WHERE word = other AND PRINT 2 word 1 is? 2
+QUIT

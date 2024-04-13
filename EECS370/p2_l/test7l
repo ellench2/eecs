@@ -1,0 +1,15 @@
+3 2 5 4
+8454145
+65538
+13828096
+0
+0
+One T 1
+Three U 0
+Two U 0
+Stack U 0
+Four D 1
+0 lw One
+2 sw Three
+0 .fill Two
+1 .fill Stack

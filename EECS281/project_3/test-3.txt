@@ -1,0 +1,32 @@
+CREATE mytable1 4 string int double bool word num othernum y/n
+REMOVE mytable1
+CREATE mytable1 4 string int double bool word num othernum y/n
+INSERT INTO mytable1 10 ROWS
+hello 5 0.26 true
+tree 4 11.0202 false
+book 5 999.9 true
+hello 6 0.26 true
+hello 5 0.026 true
+hello 6 0.26 false
+tree 3 11.0202 false
+tree 4 11.010 false
+tree 4 11.0202 true
+book 6 999.9 false
+GENERATE FOR mytable1 bst INDEX ON otherword
+JOIN mytable1 AND mytable1 WHERE word = word AND PRINT 1 y/n 1
+GENERATE FOR mytable1 bst INDEX ON othernum
+PRINT FROM mytable1 2 othernum word WHERE othernum < 100
+GENERATE FOR mytable1 hash INDEX ON othernum
+PRINT FROM mytable1 2 othernum word where othernum = 0.26
+DELETE FROM mytable1 WHERE y/n = true
+PRINT FROM mytable1 2 othernum word WHERE y/n = false
+GENERATE FOR mytable1 bst INDEX ON y/n
+PRINT FROM mytable1 2 othernum word WHERE y/n = false
+REMOVE mytable1
+INSERT INTO mytable2 2 ROWS
+PRINT FROM mytable2 1 word ALL
+REMOVE mytable2
+CREATE mytable2 2 string int word num
+INSERT INTO mytable2 0 ROWS
+REMOVE mytable2
+QUIT

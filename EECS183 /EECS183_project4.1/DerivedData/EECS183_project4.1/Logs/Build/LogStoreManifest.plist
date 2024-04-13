@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0FF8383E-9B10-4D16-90BC-ACD247F3BFC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FF8383E-9B10-4D16-90BC-ACD247F3BFC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Compile 'Circle.cpp'</string>
+			<key>timeStartedRecording</key>
+			<real>657550152.107319</real>
+			<key>timeStoppedRecording</key>
+			<real>657550152.167835</real>
+			<key>title</key>
+			<string>Compile 'Circle.cpp'</string>
+			<key>uniqueIdentifier</key>
+			<string>0FF8383E-9B10-4D16-90BC-ACD247F3BFC0</string>
+		</dict>
+		<key>131E7516-92E7-46D5-B65C-8CD8390791DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>131E7516-92E7-46D5-B65C-8CD8390791DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_project4.1</string>
+			<key>timeStartedRecording</key>
+			<real>657550113.67110205</real>
+			<key>timeStoppedRecording</key>
+			<real>657550113.769526</real>
+			<key>title</key>
+			<string>Build EECS183_project4.1</string>
+			<key>uniqueIdentifier</key>
+			<string>131E7516-92E7-46D5-B65C-8CD8390791DB</string>
+		</dict>
+		<key>2EB61D8A-1A97-4C9C-9C59-3F01219CD3EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2EB61D8A-1A97-4C9C-9C59-3F01219CD3EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_project4.1</string>
+			<key>timeStartedRecording</key>
+			<real>657549114.34551597</real>
+			<key>timeStoppedRecording</key>
+			<real>657549116.61366296</real>
+			<key>title</key>
+			<string>Build EECS183_project4.1</string>
+			<key>uniqueIdentifier</key>
+			<string>2EB61D8A-1A97-4C9C-9C59-3F01219CD3EB</string>
+		</dict>
+		<key>6F82E66A-F6F7-4DF6-B456-E31FD7F3BE56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F82E66A-F6F7-4DF6-B456-E31FD7F3BE56.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_project4.1</string>
+			<key>timeStartedRecording</key>
+			<real>657550142.39658403</real>
+			<key>timeStoppedRecording</key>
+			<real>657550142.42932296</real>
+			<key>title</key>
+			<string>Build EECS183_project4.1</string>
+			<key>uniqueIdentifier</key>
+			<string>6F82E66A-F6F7-4DF6-B456-E31FD7F3BE56</string>
+		</dict>
+		<key>AFB6AAFA-848E-4BB1-9F1C-543E13DCB23D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFB6AAFA-848E-4BB1-9F1C-543E13DCB23D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_project4.1</string>
+			<key>timeStartedRecording</key>
+			<real>657387969.757002</real>
+			<key>timeStoppedRecording</key>
+			<real>657387969.83317494</real>
+			<key>title</key>
+			<string>Build EECS183_project4.1</string>
+			<key>uniqueIdentifier</key>
+			<string>AFB6AAFA-848E-4BB1-9F1C-543E13DCB23D</string>
+		</dict>
+		<key>E7B58915-8977-4684-B336-5C55B3074394</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7B58915-8977-4684-B336-5C55B3074394.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_project4.1</string>
+			<key>timeStartedRecording</key>
+			<real>657551885.99134505</real>
+			<key>timeStoppedRecording</key>
+			<real>657551886.04912305</real>
+			<key>title</key>
+			<string>Build EECS183_project4.1</string>
+			<key>uniqueIdentifier</key>
+			<string>E7B58915-8977-4684-B336-5C55B3074394</string>
+		</dict>
+		<key>FEDBF7A0-7BFF-4FC8-8F8F-5A2A3C03FEB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEDBF7A0-7BFF-4FC8-8F8F-5A2A3C03FEB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4.1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4.1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS183_project4.1</string>
+			<key>timeStartedRecording</key>
+			<real>657551470.35186803</real>
+			<key>timeStoppedRecording</key>
+			<real>657551470.47733605</real>
+			<key>title</key>
+			<string>Build EECS183_project4.1</string>
+			<key>uniqueIdentifier</key>
+			<string>FEDBF7A0-7BFF-4FC8-8F8F-5A2A3C03FEB8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

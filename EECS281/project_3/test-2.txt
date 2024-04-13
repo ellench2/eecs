@@ -1,0 +1,92 @@
+CREATE newtable 2 string int word num
+INSERT INTO newtable 10 ROWS
+hello 5
+tree 4
+phone 6
+bed 3
+population 10
+bag 3
+desk 4
+rug 3
+window 6
+dresser 7
+INSERT INTO newtable 5 ROWS
+speaker 7
+shoes 5
+bin 3
+jacket 6
+backpack 8
+INSERT INTO newtable 4 ROWS
+scissors 8
+pen 3
+banana 7
+microwave 9
+PRINT FROM newtable 2 word num ALL
+GENERATE FOR newtable hash INDEX ON word
+PRINT FROM newtable 2 word num WHERE word > banana
+GENERATE FOR newtable bst INDEX ON num
+PRINT FROM newtable 2 word num WHERE num < 7
+GENERATE FOR newtable bst INDEX ON word
+PRINT FROM newtable 2 word num WHERE word = backpack
+GENERATE FOR newtable bst INDEX ON num
+DELETE FROM newtable WHERE num > 4
+PRINT FROM newtable 2 word num WHERE num < 6
+GENERATE FOR newtable bst INDEX ON word
+INSERT INTO newtable 5 ROWS
+photography 11
+guitar 6
+stringlights 12
+boots 5
+radiator 8
+PRINT FROM newtable 2 word num WHERE num = 7
+GENERATE FOR newtable hash INDEX ON num
+DELETE FROM newtable WHERE num = 4
+PRINT FROM newtable 2 word num WHERE num < 6
+GENERATE FOR newtable hash INDEX ON word
+INSERT INTO newtable 5 ROWS
+photography 11
+guitar 6
+stringlights 12
+boots 5
+radiator 8
+PRINT FROM newtable 2 word num WHERE num > 7
+REMOVE newtable
+CREATE newtable 2 string int word num
+INSERT INTO newtable 15 ROWS
+hello 5
+tree 4
+phone 6
+bed 3
+population 10
+bag 3
+desk 4
+rug 3
+window 6
+dresser 7
+speaker 7
+shoes 5
+bin 3
+jacket 6
+backpack 8
+CREATE newtable2 2 string int otherword othernum
+INSERT INTO newtable2 15 ROWS
+fiasdhcfiaueh 4
+aihscfues 3
+aisufchsai 8
+auceh 2
+asidhf 7
+iaucnefho 10
+viourhjsgnu 6
+fsnviufw 5
+ahwcnuh 4
+aicunhia 8
+ihsafvhu 11
+uevnrui 3
+iwnefciu 6
+iuvgnhreu 7
+josicnjei 8
+JOIN newtable AND newtable2 WHERE num = othernum AND PRINT 2 word 1 otherword 2
+GENERATE FOR newtable2 bst INDEX ON othernum
+JOIN newtable AND newtable2 WHERE num = othernum AND PRINT 2 word 1 otherword 2
+PRINT FROM newtable2 2 othernum otherword ALL
+QUIT

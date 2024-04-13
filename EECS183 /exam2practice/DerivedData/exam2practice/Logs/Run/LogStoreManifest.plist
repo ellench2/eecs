@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>23287C6C-1775-4BB4-9FDB-EE3ED6D277BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>23287C6C-1775-4BB4-9FDB-EE3ED6D277BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>exam2practice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>exam2practice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run exam2practice</string>
+			<key>timeStartedRecording</key>
+			<real>658159187.91379297</real>
+			<key>timeStoppedRecording</key>
+			<real>658159200.17313004</real>
+			<key>title</key>
+			<string>Run exam2practice</string>
+			<key>uniqueIdentifier</key>
+			<string>23287C6C-1775-4BB4-9FDB-EE3ED6D277BE</string>
+		</dict>
+		<key>B88974C2-00C7-4391-8E13-FD4B3C961B27</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B88974C2-00C7-4391-8E13-FD4B3C961B27.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>exam2practice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>exam2practice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run exam2practice</string>
+			<key>timeStartedRecording</key>
+			<real>658159171.83524799</real>
+			<key>timeStoppedRecording</key>
+			<real>658159186.23190796</real>
+			<key>title</key>
+			<string>Run exam2practice</string>
+			<key>uniqueIdentifier</key>
+			<string>B88974C2-00C7-4391-8E13-FD4B3C961B27</string>
+		</dict>
+		<key>E98E74C0-7139-45FD-90DA-96FCDA9830FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E98E74C0-7139-45FD-90DA-96FCDA9830FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>exam2practice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>exam2practice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run exam2practice</string>
+			<key>timeStartedRecording</key>
+			<real>658159233.26839399</real>
+			<key>timeStoppedRecording</key>
+			<real>658159236.27253497</real>
+			<key>title</key>
+			<string>Run exam2practice</string>
+			<key>uniqueIdentifier</key>
+			<string>E98E74C0-7139-45FD-90DA-96FCDA9830FD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

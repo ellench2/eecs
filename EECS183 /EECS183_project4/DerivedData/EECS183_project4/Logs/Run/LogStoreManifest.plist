@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8DD3D22C-1D7C-4893-80AE-E1C457CC03F0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8DD3D22C-1D7C-4893-80AE-E1C457CC03F0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run EECS183_project4</string>
+			<key>timeStartedRecording</key>
+			<real>657386629.55694795</real>
+			<key>timeStoppedRecording</key>
+			<real>657386630.50666404</real>
+			<key>title</key>
+			<string>Run EECS183_project4</string>
+			<key>uniqueIdentifier</key>
+			<string>8DD3D22C-1D7C-4893-80AE-E1C457CC03F0</string>
+		</dict>
+		<key>F92ABB95-45F1-4FDD-B479-CB862CFFFFB1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F92ABB95-45F1-4FDD-B479-CB862CFFFFB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS183_project4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS183_project4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run EECS183_project4</string>
+			<key>timeStartedRecording</key>
+			<real>657386802.72073305</real>
+			<key>timeStoppedRecording</key>
+			<real>657386803.10389805</real>
+			<key>title</key>
+			<string>Run EECS183_project4</string>
+			<key>uniqueIdentifier</key>
+			<string>F92ABB95-45F1-4FDD-B479-CB862CFFFFB1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
